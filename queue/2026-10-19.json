@@ -1,11 +1,11 @@
 {
  "date": "2026-10-19",
- "kill": true,
+ "kill": false,
  "slots": {
   "am": {
    "slot": "am",
-   "status": "ready",
-   "caption": "TEST (kill) do not post",
+   "status": "held",
+   "caption": "TEST (held) do not post",
    "video_url": "https://example.invalid/x.mp4",
    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
    "video_commit": "1111111111111111111111111111111111111111",
